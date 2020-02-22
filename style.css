@@ -1,0 +1,98 @@
+body{
+    font-family: 'Raleway', ;
+}
+h1{
+    font-size: 40px;
+    color: palevioletred;
+    font-weight: 800;
+}
+.headings{
+    font-size: 30px;
+}
+.cs-paragraph{
+    color: rebeccapurple;
+}
+.cs-link{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(233, 97, 97),white);
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.half-width-1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 10%;
+    padding: 2%;
+    
+}
+.half-width-1 img{
+    width: 80%;
+    height: 80%;
+}
+section{
+    height: 800px;
+    padding-top: 3%;
+}
+.first-part{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;   
+}
+.second-part{
+    background-image: url(images/biography-bg.png);
+    background-position: right;
+}
+.middle{
+    text-align: center;
+}
+.works{
+    margin-left: 3%;
+    float: left;
+    width: 30%;
+    height: 30%;
+}
+.works img{
+    width: 85%;
+    height: 80%%;
+}
+.third-part{
+    height: 500px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.client{
+    text-align: center;
+    padding-top: 1%;
+}
+h4{
+    font-size: 20px;
+}
+.client-identity{
+    color: forestgreen;
+    padding-bottom: 3%;
+}
+.email-section{
+    text-align: center;
+    background-color: indianred;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+.email-para{
+    padding-top: 5%;
+    color: whitesmoke;
+}
+#email{
+    padding-bottom: 5%;
+    color: whitesmoke;
+}
+.last-part{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    height: 700px;
+}
+footer{
+    text-align: center;
+}
